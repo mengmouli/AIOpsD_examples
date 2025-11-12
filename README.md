@@ -3,9 +3,7 @@
 If you are already familiar with Python virtual environments,  
 you may create and activate `.venv` in your preferred way.
 
-Otherwise, follow the instructions below.
-
-Set it up before running the code.
+Otherwise, follow the instructions below to set it up before running the code.
 
 ---
 
